@@ -1,0 +1,15 @@
+.buttonPut {
+    width: 57px;
+    height: 30px;
+    background: #56ccff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.nonactive {
+    background: #9ec9dc !important;
+}
